@@ -1,0 +1,25 @@
+﻿  re-to-nfa.cpp
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(19,23): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(21,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(31,861): warning C4566: character represented by universal-character-name '\u011E' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(31,938): warning C4566: character represented by universal-character-name '\u0130' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(31,944): warning C4566: character represented by universal-character-name '\u015E' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(31,1034): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(31,1106): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(31,1112): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(50,861): warning C4566: character represented by universal-character-name '\u011E' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(50,938): warning C4566: character represented by universal-character-name '\u0130' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(50,944): warning C4566: character represented by universal-character-name '\u015E' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(50,1034): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(50,1106): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(50,1112): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(56,12): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(56,12): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(81,12): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(81,12): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(81,56): warning C4566: character represented by universal-character-name '\u015E' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(81,56): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+C:\Users\eciha\source\repos\re-to-nfa\re-to-nfa\re-to-nfa.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+  re-to-nfa.vcxproj -> C:\Users\eciha\source\repos\re-to-nfa\Debug\re-to-nfa.exe
